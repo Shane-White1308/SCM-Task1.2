@@ -4,7 +4,7 @@ using namespace std;
 void add(int a, int b)
 {
     cout<<a+b<<endl;
-}
+}  
 
 void sub(int z, int x)
 {
